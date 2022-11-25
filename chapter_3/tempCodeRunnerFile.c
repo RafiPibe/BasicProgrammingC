@@ -1,0 +1,1 @@
+payment = calculatePayment(monthly_interest_rate, amount_borrowed, total_number_of_payments);
